@@ -1,0 +1,5 @@
+.DS_Store
+*-backups
+production
+_autosave*
+~*.kicad_pcb.lck
