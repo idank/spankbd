@@ -16,4 +16,10 @@ Features:
 
 Kits and built keyboards can be purchased on *[holykeebs](https://holykeebs.com)*.
 
-Gerber files are available in the releases page.
+Gerber files are available in the releases page. Note that currently the keyboard is not reversible (there are files for
+left / right sides). This makes it easier to deal with as a store, although it is not ideal if making just one keyboard.
+A reversible version may be added in the future.
+
+## Guide
+
+Will be added in the near future.
