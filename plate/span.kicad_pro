@@ -472,7 +472,7 @@
       "idf": "",
       "netlist": "robot.net",
       "specctra_dsn": "",
-      "step": "span.step",
+      "step": "span plate.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
