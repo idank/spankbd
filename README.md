@@ -30,4 +30,3 @@ Gerber files are available in the releases page.
 ## Guide
 
 See this [page](https://docs.holykeebs.com/guides/keyboard/).
-Will be added in the near future.
